@@ -68,3 +68,4 @@ public class Task4Test {
 		Assert.assertArrayEquals(exprctedMaxInRow, realMaxInRow);
 	  } 
 }
+// Спасибо. Хорошо выполнен таск. Зачет
